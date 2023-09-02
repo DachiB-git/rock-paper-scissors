@@ -2,7 +2,7 @@ import { useState } from "react";
 import iconPaper from "./assets/icon-paper.svg";
 import iconRock from "./assets/icon-rock.svg";
 import iconScissors from "./assets/icon-scissors.svg";
-import WinnerDisplay from "./Components/WinnerDisplay";
+import WinnerDisplay from "./components/WinnerDisplay";
 import ButtonWrapper from "./Components/ButtonWrapper";
 import Header from "./Components/Header";
 import Rules from "./Components/Rules";
