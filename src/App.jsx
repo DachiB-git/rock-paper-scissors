@@ -3,9 +3,9 @@ import iconPaper from "./assets/icon-paper.svg";
 import iconRock from "./assets/icon-rock.svg";
 import iconScissors from "./assets/icon-scissors.svg";
 import WinnerDisplay from "./components/WinnerDisplay";
-import ButtonWrapper from "./Components/ButtonWrapper";
-import Header from "./Components/Header";
-import Rules from "./Components/Rules";
+import ButtonWrapper from "./components/ButtonWrapper";
+import Header from "./components/Header";
+import Rules from "./components/Rules";
 import "./App.css";
 
 function App() {
